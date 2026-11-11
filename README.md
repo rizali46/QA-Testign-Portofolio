@@ -11,6 +11,8 @@ Welcome to my Software QA & Manual Testing Portfolio. This repository showcases 
 
 With a foundational background in **Computer Science** and hands-on development experience in **JavaScript, TypeScript, React, HTML/CSS, and C#**, I approach QA testing with a developer's mindset—going beyond surface-level symptom reporting to inspect the DOM, analyze CSS layout constraints, and isolate JavaScript event-handling bugs using **Chrome DevTools**.
 
+Selected QA case studies below; additional manual UI/UX testing conducted across various freelance web projects.
+
 ---
 
 ## 🛠️ Testing Skills & Tools
